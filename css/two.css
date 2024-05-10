@@ -1,0 +1,17 @@
+.block{
+    width: 30vw;
+    height: 30vw;
+    background-color: #000;
+    color: #fff;
+    padding: 1rem;
+}
+.left{
+    float: left;
+    margin-right: 1rem;
+}
+section{
+    background-color: bisque;
+    border: solid #333;
+    padding: 1rem;
+    display: flow-root;
+}
